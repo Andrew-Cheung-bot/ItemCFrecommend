@@ -10,7 +10,8 @@
 ![](https://img.shields.io/badge/Author-Andrew%20Cheung-lightgrey)
 
 # Introduction
-- 使用Spring Boot框架与MybatisPlus来搭建后台服务。- 使用druid第三方数据源，提供数据库的监控
+- 使用Spring Boot框架与MybatisPlus来搭建后台服务
+- 使用druid第三方数据源，提供数据库的监控
 - 使用Redis+JWT的方式管理token
 - 前端使用Vue2 + ElementUI布局搭建
 
